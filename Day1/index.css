@@ -5,6 +5,10 @@
     font-family: 'Mulish', sans-serif;
 }
 
+body {
+    overflow: hidden;
+}
+
 .container {
     width: 100vw;
     height: 100vh;
